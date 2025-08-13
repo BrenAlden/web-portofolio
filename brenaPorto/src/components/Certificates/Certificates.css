@@ -1,0 +1,16 @@
+.my-masonry-grid {
+  display: -webkit-flex; 
+  display: flex;
+  margin-left: -20px; 
+  width: auto;
+}
+
+.my-masonry-grid_column {
+  padding-left: 20px; 
+  background-clip: padding-box;
+}
+
+.my-masonry-grid_column > a { 
+  margin-bottom: 20px;
+  display: block;
+}
